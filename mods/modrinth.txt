@@ -19,3 +19,8 @@ autogg-fabric            # AutoGG
 nopeeking                # Password Hider
 emoji-type               # Emoji Type
 simple-item-editor       # Item Editor
+
+# Singleplayer gameplay mods (Minecraft 26.2 / Fabric)
+infinite-trading          # Villager trades do not lock up in singleplayer
+viper-vein-miner          # Sneak to mine connected ores and logs
+xaeros-minimap            # Nearby terrain minimap and waypoints
